@@ -24,4 +24,4 @@ Payroll staff can calculate employee work hours, apply government deductions, an
 ---
 
 ### Project Plan Link
-[Insert Link Here]
+https://docs.google.com/spreadsheets/d/1o1UmmD_6-jl2przYLtbCKyz1RySaIfHztqRXBGFjFlk/edit?usp=sharing
