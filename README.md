@@ -3,6 +3,8 @@
 
 ### Team Details
 **Justine Mangalindan**
+**Kenji Bermudez**
+**Raymond Ballaran**
 
 - Designed the system using parallel `ArrayLists` to follow the **No OOP requirement**.
 - Implemented `loadEmployees()` and `loadAttendance()` to parse CSV files using **Regex**.
